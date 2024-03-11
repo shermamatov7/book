@@ -1,0 +1,15 @@
+.jurok {
+    position: relative;
+}
+
+.jurok input {
+    width: 200px;
+    height: 15px;
+    padding: 5px;
+}
+
+.bb {
+    position: absolute;
+    left: 79.3pc;
+    top: 10px;
+}
